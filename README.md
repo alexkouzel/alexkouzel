@@ -1,5 +1,3 @@
-![banner](https://github.com/alexkouzel/alexkouzel/blob/master/banner.jpg?raw=true)
-
 ```java
 import java.util.*;
 
