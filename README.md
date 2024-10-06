@@ -9,6 +9,7 @@ public class AlexKouzel {
 
     public AlexKouzel() {
         name = "Alex Kouzel";
+
         skills = new LinkedHashMap<>();
         skills.put("Backend", List.of("Java", "Spring Boot", "Hibernate"));
         skills.put("Frontend", List.of("HTML", "CSS", "JavaScript"));
