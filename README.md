@@ -1,6 +1,6 @@
 # Hey, I'm Alex 👋
 
-Software engineer based in the Netherlands, building backend systems and infrastructure that keep things running at scale. When I'm not deep in code, I'm usually out running or somewhere in the mountains. I like solving hard problems, whether that's in a codebase or on a climb.
+I am a software engineer based in the Netherlands, building backend systems and infrastructure that keep things running at scale. When I'm not deep in code, I'm usually out running or somewhere in the mountains. I like solving hard problems, whether that's in a codebase or on a climb.
 
 ## What I work with
 
