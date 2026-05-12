@@ -16,6 +16,3 @@ I'm a software engineer based in the Netherlands, building backend systems and i
 ## GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=alexkouzel&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
