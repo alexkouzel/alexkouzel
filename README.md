@@ -4,14 +4,17 @@ I'm a software engineer based in the Netherlands, building backend systems and i
 
 ## What I work with
 
-**Backend:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+**Languages:**
+Java, Python, SQL (Postgres), TypeScript/JavaScript, HTML/CSS
 
-**Frontend:**
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+**Frameworks:**
+Spring Boot, Angular
 
-**Infra:**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+**DevOps:**
+AWS, Linux, Docker
+
+**Developer Tools:**
+Gradle, Maven, Git
 
 ## GitHub Stats
 
