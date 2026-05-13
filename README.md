@@ -4,17 +4,10 @@ I'm a software engineer based in the Netherlands, building backend systems and i
 
 ## What I work with
 
-**Languages:**
-Java, Python, SQL (Postgres), TypeScript/JavaScript, HTML/CSS
-
-**Frameworks:**
-Spring Boot, Angular
-
-**DevOps:**
-AWS, Linux, Docker
-
-**Developer Tools:**
-Gradle, Maven, Git
+- **Languages**: Java, Python, SQL (Postgres), TypeScript/JavaScript, HTML/CSS
+- **Frameworks**: Spring Boot, Angular
+- **DevOps**: AWS, Linux, Docker
+- **Developer Tools**: Gradle, Maven, Git
 
 ## GitHub Stats
 
