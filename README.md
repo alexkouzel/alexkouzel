@@ -1,6 +1,6 @@
 # Hey, I'm Alex 👋
 
-I'm a software engineer in the Netherlands, specializing in Java backend development, with full-stack experience using Angular. Right now I work at Keylane on a platform used by 550+ insurance and pension companies across Europe.
+I'm a software engineer in the Netherlands, specializing in Java backend development, with full-stack experience using Angular. Right now I work at Keylane, whose software is used by 550+ insurance and pension companies across Europe.
 
 ## What I work with
 
