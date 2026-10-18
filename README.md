@@ -6,7 +6,7 @@ I'm a software engineer in the Netherlands, specializing in Java backend develop
 
 - **Languages:** Java, TypeScript, JavaScript, Python, SQL
 - **Frameworks:** Spring Boot, Hibernate, Angular, JUnit
-- **Data & infra:** PostgreSQL, AWS, Docker, Linux, TeamCity, Git
+- **Data & infra:** PostgreSQL, AWS, Docker, Gradle, Linux, TeamCity, Git
 
 ## Projects
 
