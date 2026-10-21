@@ -1,18 +1,19 @@
 # Hey, I'm Alex 👋
 
-I'm a software engineer in the Netherlands, specializing in Java backend development, with full-stack experience using Angular. Right now I work at Keylane, whose software is used by 550+ insurance and pension companies across Europe.
+I'm a software engineer in the Netherlands, specializing in Java backend development, with full-stack experience using Angular. Right now I work at Keylane, a European SaaS company whose core systems are used by 550 insurers and pension funds.
 
 ## What I work with
 
-- **Languages:** Java, TypeScript, JavaScript, Python, SQL
+- **Languages:** Java, TypeScript, JavaScript, Python
 - **Frameworks:** Spring Boot, Hibernate, Angular, JUnit
-- **Data & infra:** PostgreSQL, AWS, Docker, Gradle, Linux, TeamCity, Git
+- **Data & infra:** SQL, PostgreSQL, Docker, AWS, Gradle, Linux, TeamCity, Git
+- **AI:** Agentic coding (Claude Code, Codex), Context engineering, LLM APIs
 
 ## Projects
 
 - **[Cinerr](https://github.com/alexkouzel/cinerr)**: Open-source media file manager for self-hosters (30+ GitHub stars, 15,000+ Docker Hub pulls), showing codecs, resolutions, HDR and audio formats, and estimated space savings from transcoding. ([Landing page](https://alexkouzel.github.io/cinerr/landing/) · [Demo](https://alexkouzel.github.io/cinerr/demo/))
-- **[Follow Insider](https://github.com/alexkouzel/follow-insider)**: Web application giving investors insight into US insider trading. Collected 20+ years of SEC filings through 3.5M+ API requests and identified 2.5M+ purchases and sales, designed so that no transaction is missed or misread.
-- **[SEC API](https://github.com/alexkouzel/sec-api)**: Library for accessing SEC data via EDGAR: registered companies, filing references (10-K, 10-Q, 8-K, Forms 3/4/5), and parsed insider ownership documents.
+- **[Follow Insider](https://github.com/alexkouzel/follow-insider)**: Web application that helps investors follow share trades by insiders, such as directors and major shareholders. Imported 20+ years of official US trading reports, identifying 2.5M+ trades, with new reports loaded every 5 minutes, designed so that no trade is missed or misread.
+- **[SEC API](https://github.com/alexkouzel/sec-api)**: Java library behind Follow Insider, pulling company details, reports and insider trades from the US regulator (SEC).
 - **[Oneling Bot](https://github.com/alexkouzel/oneling-bot)**: Telegram bot for learning vocabulary in 10+ languages, using OpenAI for translations and examples.
 
 ## Contact
