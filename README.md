@@ -11,8 +11,8 @@ I'm a software engineer in the Netherlands, specializing in Java backend develop
 
 ## Projects
 
-- **[Cinerr](https://github.com/alexkouzel/cinerr)**: Open-source media file manager for self-hosters (30+ GitHub stars, 15,000+ Docker Hub pulls), showing codecs, resolutions, HDR and audio formats, and estimated space savings from transcoding. ([Landing page](https://alexkouzel.github.io/cinerr/landing/) · [Demo](https://alexkouzel.github.io/cinerr/demo/))
-- **[Follow Insider](https://github.com/alexkouzel/follow-insider)**: Web application that helps investors follow share trades by insiders, such as directors and major shareholders. Imported 20+ years of official US trading reports, identifying 2.5M+ trades, with new reports loaded every 5 minutes, designed so that no trade is missed or misread.
+- **[Cinerr](https://github.com/alexkouzel/cinerr)**: Open-source media file manager for self-hosters (30+ GitHub stars, 15,000+ Docker Hub pulls), showing codecs, resolutions, HDR, audio formats and estimated space savings from transcoding. ([Landing page](https://alexkouzel.github.io/cinerr/landing/) · [Demo](https://alexkouzel.github.io/cinerr/demo/))
+- **[Follow Insider](https://github.com/alexkouzel/follow-insider)**: Web application that helps investors follow share trades by insiders, such as directors and major shareholders. Imported 20+ years of official US trading reports (2.5M+ trades), with new reports loaded every 5 minutes, designed so no trade is missed or misread.
 - **[SEC API](https://github.com/alexkouzel/sec-api)**: Java library behind Follow Insider, pulling company details, reports and insider trades from the US regulator (SEC).
 - **[Oneling Bot](https://github.com/alexkouzel/oneling-bot)**: Telegram bot for learning vocabulary in 10+ languages, using OpenAI for translations and examples.
 
