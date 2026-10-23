@@ -1,13 +1,13 @@
 # Hey, I'm Alex 👋
 
-I'm a software engineer in the Netherlands, specializing in Java backend development, with full-stack experience using Angular. Right now I work at Keylane, a European SaaS company whose core systems are used by 550 insurers and pension funds.
+I'm a software engineer in the Netherlands, specializing in Java backend development, with full-stack experience using Angular. Right now I work at Keylane, a European SaaS company whose core systems are used by 550 insurers and pension funds. I work AI-first with Claude Code, and I'm looking to take ownership of key parts of a product and lead technical decisions.
 
 ## What I work with
 
 - **Languages:** Java, TypeScript, JavaScript, Python
 - **Frameworks:** Spring Boot, Hibernate, Angular, JUnit
 - **Data & infra:** SQL, PostgreSQL, Docker, AWS, Gradle, Linux, TeamCity, Git
-- **AI:** Agentic coding (Claude Code, Codex), Context engineering, LLM APIs
+- **AI:** Agentic coding (Claude Code), Context engineering, LLM APIs
 
 ## Projects
 
